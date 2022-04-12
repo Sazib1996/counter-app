@@ -1,7 +1,16 @@
 .App {
   text-align: center;
 }
-
+.App h1{
+  color: #61dafb;
+}
+.App button{
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  background: none;
+  border-color: aqua;
+  padding: 0 1rem;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
